@@ -2,6 +2,7 @@
 title: 2019-11-04-troy-hawke-tiles-of-the-unexpected
 event-title: TROY HAWKE - TILES OF THE UNEXPECTED
 layout: post
+availability: cancelled
 ticket-url: https://www.weezevent.com/hawke2020
 fb-url: https://www.facebook.com/events/2385910331490659/
 image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3.eu-west-1.amazonaws.com/affiche_500389.thumb53700.1566898758.jpg
