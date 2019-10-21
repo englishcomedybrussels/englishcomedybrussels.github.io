@@ -2,6 +2,7 @@
 title: 2018-11-20-bobby-mair-loudly-insecure
 event-title: BOBBY MAIR - LOUDLY INSECURE
 layout: post
+availability: cancelled
 ticket-url: http://www.weezevent.com/mair2018
 fb-url: https://www.facebook.com/events/2035417236510822
 image-url: https://wzeweb-p-visuelorga-evn-affiche-thumb.s3.eu-west-1.amazonaws.com/affiche_372341.thumb53700.1535800343.jpg
