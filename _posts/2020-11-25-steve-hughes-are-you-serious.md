@@ -1,5 +1,5 @@
 ---
-title: 2020-05-12-steve-hughes-are-you-serious
+title: 2020-11-25-steve-hughes-are-you-serious
 event-title: STEVE HUGHES - ARE YOU SERIOUS?
 layout: post
 ticket-url: https://www.weezevent.com/hughes2020

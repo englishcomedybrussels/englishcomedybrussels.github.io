@@ -1,5 +1,5 @@
 ---
-title: 2020-05-20-terry-alderton-all-crazy-now
+title: 2020-09-03-terry-alderton-all-crazy-now
 event-title: TERRY ALDERTON - ALL CRAZY NOW
 layout: post
 ticket-url: https://www.weezevent.com/alderton2020
