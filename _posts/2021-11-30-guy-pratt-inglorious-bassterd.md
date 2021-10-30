@@ -25,3 +25,6 @@ Having wowed crowds the world over with ‘My Bass and other Animals’ and ‘B
 “Like being seated on a train journey next to the most interesting man you ever met” – The Sunday Times
 
 “Bass Players are ten a penny but a good wit is hard to find, so we hired him” – David Gilmour
+
+----
+THIS EVENT TAKES PLACE AT: le Bouche à Oreille, Félix Hapstraat 11, 1040 Etterbeek, Belgium
