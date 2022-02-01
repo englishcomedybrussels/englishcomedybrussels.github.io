@@ -20,6 +20,6 @@ image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/af
 <p> A regular at KILKENNY CAT LAUGHS, VODAFONE COMEDY CARNIVAL and THE ELECTRIC PICNIC, to name a few,John Colleary is definitely one to watch.</p>
 <p> &nbsp;</p>
 <p>_________________________________________________________________________________</p>
-</div> <span><span>Doors open at 7 pm<br> Online tickets : 20€<br> On the door : 25€</span></span>
-<p> <br> Come early for a drink as well as some meet &amp; mingle!</p>
+<p>Doors open at 7 pm<br> Online tickets : 20€<br> On the door : 25€</p>
+<p>Come early for a drink as well as some meet &amp; mingle!</p>
     
