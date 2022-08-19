@@ -7,8 +7,7 @@ fb-url: https://www.facebook.com/events/1082765562426024/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_877891.jpg
 ---
 
-        <p style="margin-left:36pt;">
-	We are delighted to welcome comedy superstar&nbsp;<strong>Simon Brodkin</strong> to Brussels on Tuesday november the 15th at Bouche-à-Oreille theatre.</p>
+<p>We are delighted to welcome comedy superstar&nbsp;<strong>Simon Brodkin</strong> to Brussels on Tuesday november the 15th at Bouche-à-Oreille theatre.</p>
 <p style="margin-left:36pt;">
 <em>Acclaimed character comedian and “<strong>the world’s most famous blagger</strong>” (The Daily Telegraph). Simon is now performing as himself and sold out multiple UK tours.</em></p>
 <p style="margin-left:36pt;">

@@ -7,7 +7,6 @@ fb-url: https://www.facebook.com/events/1048709662731162/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_844721.png
 ---
 
-        <p style="margin: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">
 <b><span lang="EN-US" style="font-size: 10.5pt; font-family: Calibri, sans-serif; color: rgb(51, 51, 51); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">THE NOISE NEXT DOOR are back!</span></b></p>
 <p style="margin: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">
 	&nbsp;</p>
