@@ -7,7 +7,7 @@ fb-url: https://www.facebook.com/events/695315455345752/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_899932.jpg
 ---
 
-<b>THE EU COMEDY THING  is back!</span></b></p>
+<p>THE EU COMEDY THING is back!</p>
 <p> After a sold out premiere in September we are delighted to bring to you another phenomenal line up with <strong>George Zacharopoulos (Greece), </strong><strong>Jacob Taarnhøj</strong> (Denmark), and <strong>Xavi Castells</strong> (Spain), all of them still under the supervision of MC <strong>Nigel Williams</strong>.</p>
 
 <p> <strong>NB : One free drink is included with your ticket</strong> (Glass of wine, beer, soft drink).</p>
