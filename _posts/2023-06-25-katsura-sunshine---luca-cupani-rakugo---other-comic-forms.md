@@ -1,5 +1,5 @@
 ---
-title: 2023-06-25-katsura-sunshine---luca-cupani-rakugo---other-comic-forms
+title: 2023-11-21-katsura-sunshine---luca-cupani-rakugo---other-comic-forms
 event-title: Katsura Sunshine & Luca Cupani - 'Rakugo & other comic forms'
 layout: post
 ticket-url: http://my.weezevent.com/rakugo2023
