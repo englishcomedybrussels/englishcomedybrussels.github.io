@@ -4,7 +4,7 @@ event-title: English Comedy Nigh w/ Luca Cupani & Ken Parsons
 layout: post
 ticket-url: http://my.weezevent.com/cupani2023
 fb-url: https://www.facebook.com/events/298549799177769/
-image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_994648.jpg
+image-url: http://englishcomedybrussels.com/images/2023-06-27-english-comedy-night-w-luca-cupani-ken-parsons.jpg
 ---
 
 <p>
