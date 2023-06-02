@@ -4,7 +4,7 @@ event-title: Katsura Sunshine & Luca Cupani - 'Rakugo & other comic forms'
 layout: post
 ticket-url: http://my.weezevent.com/rakugo2023
 fb-url: https://www.facebook.com/events/1277048463168924/
-image-url: http://englishcomedybrussels.com/images/2023-06-27-english-comedy-night-w-luca-cupani-ken-parsons.jpg
+image-url: https://gallery.weezevent.com/46094/sites/newFile.png
 ---
 <p>
     Here’s a truly unique comedy experience, for the very first time in Europe !</p>
