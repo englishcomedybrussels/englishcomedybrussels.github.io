@@ -1,6 +1,6 @@
 ---
 title: 2023-06-27-english-comedy-nigh-w-luca-cupani---ken-parsons
-event-title: English Comedy Nigh w/ Luca Cupani & Ken Parsons
+event-title: English Comedy Night w/ Luca Cupani & Ken Parsons
 layout: post
 ticket-url: http://my.weezevent.com/cupani2023
 fb-url: https://www.facebook.com/events/298549799177769/
