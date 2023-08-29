@@ -60,5 +60,5 @@ _________________
 <p> Rue Félix Hap 11
 <p> 1040 Brussels
 <p>  
-<p> Doors open at 5 pm, show starts at 6 pm
+<p> Doors open at 7 pm, show starts at 8 pm
 <p> Ticket includes one free drink : soft/beer/glass of wine
