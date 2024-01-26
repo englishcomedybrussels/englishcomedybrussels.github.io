@@ -7,6 +7,7 @@ fb-url: https://www.facebook.com/events/1080687356406804/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1087792.png
 location: FlyLounge, rue du Commerce 65, 1000, Brussels Belgium
 ---
+
 <h3>Welcome on board for a world premiere in a very unique setting!</h3>
 
 Our next event will take place… in an Airbus A319 right in the centre of Brussels! Indeed, the cabin of this plane has been transported to Brussels and set up for special events.
@@ -19,11 +20,11 @@ The price of 79€ includes food (you will receive two platters, one salty and one
 
 Boarding starts at 7 pm and take-off is scheduled at 8pm.
 
-________________
+<hr />
 
 Comedians on board will be:
 
-<h2>Adam Fields - captain</h3>
+<h3>Adam Fields - captain</h3>
 
 Amsterdam based British comedian Adam Fields is an international funny man who has charmed audiences in numerous countries from Norway to South Africa, and from the USA to Indonesia. A lively and visual comic with well-crafted routines that consistently induce hard and fast laughter. His style has been described as a curious mix of sophisticated English and neurotic Jew, with a dash of ‘Crazy Dutch’.
 
@@ -43,6 +44,3 @@ You will receive one glass of Prosecco before embarking, and another during the 
 <hr />
 Check-in opens at 7pm<br>
 Take-off at 8pm
-
-
-</div>
