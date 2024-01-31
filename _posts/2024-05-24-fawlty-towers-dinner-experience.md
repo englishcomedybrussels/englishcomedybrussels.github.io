@@ -8,8 +8,6 @@ image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/af
 location: Barsey hotel, Avenue Louise 381-383, 1050, Brussels Belgium
 ---
 
-<h3>Fawlty Towers dinner experience!</h3>
-
 For the first time in Belgium!
 
 To this day, <strong>Fawlty Towers</strong> is still regarded as<strong> the greatest ever British sitcom</strong>.
