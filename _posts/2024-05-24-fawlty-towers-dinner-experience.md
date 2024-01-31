@@ -23,7 +23,3 @@ Fawlty Towers distinguished staff (Basil, Sybil and Manuel) will take hold of th
 Price includes apéritif &amp; a three course gourmet dinner. Drinks to be paid separately.
 
 <u><strong>Starts at 7pm</strong></u>
-
-	 
-
-	 
