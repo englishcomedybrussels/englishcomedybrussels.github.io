@@ -5,4 +5,4 @@ layout: post
 fb-url: https://www.facebook.com/events/762144370489940/
 ---
 <h3>Mon Incroyable Fiancé, Patrick en one man show</h3>
-Legacy event - see <a> href="https://www.facebook.com/events/762144370489940/">Facebook event</a>.
+Legacy event - see <a href="https://www.facebook.com/events/762144370489940/">Facebook event</a>.

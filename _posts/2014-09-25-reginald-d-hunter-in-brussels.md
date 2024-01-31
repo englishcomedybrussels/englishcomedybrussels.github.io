@@ -5,4 +5,4 @@ layout: post
 fb-url: https://www.facebook.com/events/812617945417525/
 ---
 <h3>Reginald D Hunter in Brussels</h3>
-Legacy event - see <a> href="https://www.facebook.com/events/812617945417525/">Facebook event</a>.
+Legacy event - see <a href="https://www.facebook.com/events/812617945417525/">Facebook event</a>.
