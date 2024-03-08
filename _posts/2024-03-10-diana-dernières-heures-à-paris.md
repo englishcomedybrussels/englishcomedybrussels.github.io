@@ -6,6 +6,7 @@ ticket-url: https://my.weezevent.com/diana2024
 fb-url: https://www.facebook.com/events/s/1358038681496386/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1094568.png
 location: Le Bouche-à-Oreille, rue Félix Hap 11, 1040, Brussels Belgium
+availability: cancelled
 ---
 <div><div class="xdj266r x11i5rnm xat24cr x1mh8g0r x1vvkbs">
 <strong>Daniel Bourdon</strong> était le policier en charge de la sécurité de Lady Diana lorsqu'elle a été transférée à l'hôpital de la Salpêtrière après son accident, dans la nuit du 31 août 1997.</div>
