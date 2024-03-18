@@ -25,7 +25,7 @@ Luke is also known for co-hosting the Luke and Meg Podcast, the BLT podcast and 
 
 You've seen him on the internet, now it's time to see him in real life, this is not one to miss!
 
-+ guest 
+with guest
 
 <hr />
 
