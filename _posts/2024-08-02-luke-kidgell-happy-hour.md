@@ -11,7 +11,7 @@ availability: soldout
 
 <strong>Both Luke Kidgell shows in Brussels are sold out, we are looking to add an extra show, to be confirmed soon!</strong>
 
-<p>Please email us to be added to the waiting list: info@englishcomedybrussels.com
+Please email us to be added to the waiting list: info@englishcomedybrussels.com
 
 <h2>Luke Kidgell</h2><span> comes to Brussels!</span>
 
@@ -25,7 +25,7 @@ Luke is also known for co-hosting the Luke and Meg Podcast, the BLT podcast and 
 
 You've seen him on the internet, now it's time to see him in real life, this is not one to miss!
 
-with guest 
+with guest
 
 <hr />
 Doors open at 6pm<br>
