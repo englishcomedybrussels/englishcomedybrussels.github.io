@@ -28,6 +28,7 @@ You've seen him on the internet, now it's time to see him in real life, this is 
 with guest
 
 <hr />
+
 Doors open at 6pm<br>
 Show starts at 7pm
 

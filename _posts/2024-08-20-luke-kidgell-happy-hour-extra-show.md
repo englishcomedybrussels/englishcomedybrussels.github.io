@@ -31,4 +31,3 @@ with guest
 
 Doors open at 6pm<br>
 Show starts at 7pm
-
