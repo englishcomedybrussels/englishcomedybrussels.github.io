@@ -6,6 +6,7 @@ ticket-url: https://my.weezevent.com/kidgell4
 fb-url: https://www.facebook.com/events/941761244148171/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1108600.jpg
 location: Le Bouche-à-Oreille, rue Félix Hap 11, 1040, Brussels Belgium
+availability: extra
 ---
 <strong>We are adding a 4th show with Luke Kidgell, on the 20th of August at 10pm. </strong>
 
