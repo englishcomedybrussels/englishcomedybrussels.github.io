@@ -6,7 +6,7 @@ ticket-url: https://my.weezevent.com/kidgell3
 fb-url: https://www.facebook.com/events/926896398879817/
 image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1108600.jpg
 location: Le Bouche-à-Oreille, rue Félix Hap 11, 1040, Brussels Belgium
-availability: extra
+availability: soldout
 ---
 
 <strong>Luke's first two shows in Brusssels sold out in less than 24 hours. </strong>
