@@ -1,10 +1,10 @@
 ---
 title: 2024-11-26-jack-gleadow-guest-austin-shale
-event_title: Jack Gleadow + guest Austin Shale
+event-title: Jack Gleadow + guest Austin Shale
 layout: post
-ticket_url: https://my.weezevent.com/gleadow2024
-fb_url: https://www.facebook.com/events/426308900173977/
-image_url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1143740.png
+ticket-url: https://my.weezevent.com/gleadow2024
+fb-url: https://www.facebook.com/events/426308900173977/
+image-url: https://wzeweb-p-visuelorga-evn-affiche.s3.eu-west-1.amazonaws.com/affiche_1143740.png
 location: The Black Sheep, Chaussée de Boondael 8, 1050, Brussels Belgium
 ---
 Comedy sensation <strong>Jack Gleadow</strong> is back in Brussels!
